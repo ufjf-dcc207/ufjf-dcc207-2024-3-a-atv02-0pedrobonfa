@@ -1,0 +1,19 @@
+.box
+{
+    background-color: whitesmoke;
+    width: 98vw;
+    height: 40vh;
+    box-shadow:0 0 0 0.6px rgb(2, 28, 128); /*cor da margem*/
+}
+
+.title
+{
+    background-color: rgb(81, 136, 232);
+    font-size: 10px;
+}
+
+.boxText
+{
+    font-size: 10px;
+
+}
