@@ -1,4 +1,7 @@
 import './Caixa.css'
+import './Matricula.css'
+import Matricula from "./Matricula";
+
 function Caixa() {
 
   return (
@@ -14,8 +17,14 @@ function Caixa() {
           <div className='boxText' >Nome:</div>
           <div className='boxText' >Curso:</div>
           <div className='boxText' >Período Letivo:</div>
+
+          <Matricula>
+          </Matricula>
+
+
         </div>
       </div>
+      
     </>
   )
 }
