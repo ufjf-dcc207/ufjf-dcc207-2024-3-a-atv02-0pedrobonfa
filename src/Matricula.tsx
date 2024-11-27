@@ -5,6 +5,7 @@ function Matricula() {
     <>
         <div className="innerBox">
             <table id="tabela">
+                <div className='title'>Matrículas - 2024/3</div>
                 <tr id="TabTitulos">
                     <td>Disciplina</td>
                     <td>Nome</td>
