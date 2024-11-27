@@ -5,7 +5,7 @@ function Matricula() {
     <>
         <div className="innerBox">
             <table id="tabela">
-                <div className='title'>Matrículas - 2024/3</div>
+            <th className='innerTitle'>Mathículas - 2024/3</th>
                 <tr id="TabTitulos">
                     <td>Disciplina</td>
                     <td>Nome</td>
@@ -16,11 +16,19 @@ function Matricula() {
                 </tr>
                 <tr>
                     <td>PKM101</td>
-                    <td>Tipos de Pokemon</td>
+                    <td>Tipos de Pokémon</td>
                     <td>01A</td>
                     <td>Segunda-Feira</td>
                     <td>13:00</td>
                     <td>16:00</td>
+                </tr>
+                <tr>
+                    <td>PKM102</td>
+                    <td>Montando um time</td>
+                    <td>01A</td>
+                    <td>Terça-Feira</td>
+                    <td>14:00</td>
+                    <td>20:00</td>
                 </tr>
             </table>
         </div>
