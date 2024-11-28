@@ -4,17 +4,18 @@
     
 }
 .innerTitle{
-    width: 100%;
+    width: 90.6vw;
+    padding: 0.19vw;
     background-color: rgb(81, 136, 232);
     font-size: 2vh;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 6vw;
-    margin-left: 3vw;
-    box-shadow:0 0 0 0.2vh rgb(85, 119, 255);
 }
 
 #tabela{
     margin-top: 4vh;
+    margin-right: 4.02vw;
+    height: 26vh;
     margin-left: 3vw;
     border-spacing: 2vh;
     box-shadow:0 0 0 0.2vh rgb(2, 28, 128); /*cor da margem*/
