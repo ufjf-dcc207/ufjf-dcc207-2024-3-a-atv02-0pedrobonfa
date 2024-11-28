@@ -15,16 +15,15 @@ type DisciplinaProps = {
 
 function Disciplina({code, name, turma, day, iniTime, endTime}:DisciplinaProps){
 
-    return <div className="disciplina">
-        
+    return <div  className="tabela">
+
         <div>{code}</div>
         <div>{name}</div>
         <div>{turma}</div>
         <div>{day}</div>
         <div>{iniTime}</div>
         <div>{endTime}</div>
-
-    </div>
+    </div >
 }
 
 export default Disciplina;
