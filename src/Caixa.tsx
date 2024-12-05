@@ -11,12 +11,12 @@ function Caixa() {
 
           <p className='title'>Comprovante de matrícula</p>
           <div id='matricula'>
-          <div className='boxText' >Matricula: </div>
-          <div className='boxText' >Situação: </div>
+          <div className='boxText' >Matricula: 001</div>
+          <div className='boxText' >Situação: Ativa </div>
           </div>
-          <div className='boxText' >Nome:</div>
-          <div className='boxText' >Curso:</div>
-          <div className='boxText' >Período Letivo:</div>
+          <div className='boxText' >Nome: Red</div>
+          <div className='boxText' >Curso: Mestre Pokémon</div>
+          <div className='boxText' >Período Letivo: 2024.3</div>
 
           <Matricula>
           </Matricula>
